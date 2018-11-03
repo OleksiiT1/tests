@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		DB752A21218DD2F700FDB0B1 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB752A20218DD2F700FDB0B1 /* main.swift */; };
+		DB752A28218DD37D00FDB0B1 /* Calculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB752A27218DD37D00FDB0B1 /* Calculator.swift */; };
+		DB752A2A218DDA7200FDB0B1 /* Demonstrator.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB752A29218DDA7200FDB0B1 /* Demonstrator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +27,8 @@
 /* Begin PBXFileReference section */
 		DB752A1D218DD2F700FDB0B1 /* MagnificientSeven */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = MagnificientSeven; sourceTree = BUILT_PRODUCTS_DIR; };
 		DB752A20218DD2F700FDB0B1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		DB752A27218DD37D00FDB0B1 /* Calculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Calculator.swift; sourceTree = "<group>"; };
+		DB752A29218DDA7200FDB0B1 /* Demonstrator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Demonstrator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,8 @@
 			isa = PBXGroup;
 			children = (
 				DB752A20218DD2F700FDB0B1 /* main.swift */,
+				DB752A27218DD37D00FDB0B1 /* Calculator.swift */,
+				DB752A29218DDA7200FDB0B1 /* Demonstrator.swift */,
 			);
 			path = MagnificientSeven;
 			sourceTree = "<group>";
@@ -120,6 +126,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				DB752A21218DD2F700FDB0B1 /* main.swift in Sources */,
+				DB752A2A218DDA7200FDB0B1 /* Demonstrator.swift in Sources */,
+				DB752A28218DD37D00FDB0B1 /* Calculator.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
